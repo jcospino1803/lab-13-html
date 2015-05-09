@@ -3,8 +3,56 @@ p {
 }
 
 h1{
-
+    
 	color: #408000;
 	font-size: 4em;
 	text-decoration: none;
+	background-color:#e5f2e5;
+	text-transform: uppercase;
+	 margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+h2{
+	color:#888888;
+	font-size:2em;
+	background-color:#e5f2e5;
+	font-family: arial;
+	margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+
+}
+h3{
+	color: #408000;
+	font-size: 1.5em;
+	text-decoration: none;
+	background-color:#000080;
+	margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+
+body {
+    background: white url(https://s-media-cache-ak0.pinimg.com/236x/5a/42/c6/5a42c6224e3ce7fa9837965270bfcdd9.jpg) repeat top right;
+    background-size: 90px;
+}
+
+
+
+
+
 }
